@@ -1,0 +1,116 @@
+ <android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toEndOf="@+id/subscriptions">
+
+     <TextView
+         android:id="@+id/info"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="10dp"
+         android:layout_marginRight="10dp"
+         android:layout_marginTop="84dp"
+         android:maxLines="2"
+         android:gravity="center_horizontal"
+         android:layout_gravity="center_horizontal"
+         android:textAlignment="center"
+         android:textSize="18sp"
+         android:textStyle="bold"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintLeft_toLeftOf="parent"
+         app:layout_constraintRight_toRightOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent" />
+      <TextView
+          android:id="@+id/subscriptions"
+          android:layout_width="wrap_content"
+          android:layout_height="23dp"
+          android:textSize="15sp"
+          android:visibility="gone"
+          app:layout_constraintEnd_toEndOf="parent"
+          android:layout_marginTop="10dp"
+          android:layout_marginBottom="10dp"
+          app:layout_constraintLeft_toLeftOf="parent"
+          app:layout_constraintRight_toRightOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toBottomOf="@+id/info" />
+
+     <EditText
+         android:id="@+id/lastWill"
+         android:layout_width="0dip"
+         android:layout_height="wrap_content"
+         android:layout_marginEnd="8dp"
+         android:layout_marginLeft="16dp"
+         android:layout_marginStart="8dp"
+         android:layout_marginTop="8dp"
+         android:visibility="gone"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toStartOf="@+id/btn"
+         app:layout_constraintLeft_toLeftOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toBottomOf="@+id/info" />
+
+
+     <Button
+         android:id="@+id/btn"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginBottom="8dp"
+         android:layout_marginEnd="16dp"
+         android:layout_marginRight="16dp"
+         android:layout_marginTop="8dp"
+         android:text="Send this to Red"
+         android:visibility="gone"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintRight_toRightOf="parent"
+         app:layout_constraintTop_toTopOf="@+id/subscriptions"></Button>
+
+
+
+
+
+
+     <ProgressBar
+         android:id="@+id/progressBar"
+         style="?android:attr/progressBarStyle"
+         android:layout_width="175dp"
+         android:layout_height="99dp"
+         android:layout_alignParentTop="true"
+         android:layout_centerHorizontal="true"
+         android:layout_marginBottom="8dp"
+         android:layout_marginEnd="8dp"
+         android:layout_marginStart="8dp"
+         android:layout_marginTop="8dp"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent" />
+
+     <Button
+         android:id="@+id/buttongreen"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginStart="16dp"
+         android:layout_marginTop="8dp"
+         android:text="I will be Green"
+         android:background="@color/green"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent" />
+
+     <Button
+         android:id="@+id/buttonred"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginRight="16dp"
+         android:layout_marginTop="8dp"
+         android:text="I will be Red"
+         android:background="@color/red"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintRight_toRightOf="parent"
+         app:layout_constraintTop_toTopOf="parent" />
+
+ </android.support.constraint.ConstraintLayout>

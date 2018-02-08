@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\design-27.0.2.aar\998a517b0bdeccc4ed1cc83098ccfe38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\e1bdf1032024c4ca65eedf4aaa7dde05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\7e42785cf452ccf7ed1d5807b9ab38f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\a869547c8f197c8a2d81911dc44a2f40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d67265f1d3af5bc833e10e3c41eb8a78\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\670d07086824bc214915c8535a5a958d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\7209fb4c7df9997696b287a0b07ad6a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\292b9fd83dfd41f627ba9ae26362f184\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\df8681fa88b0fe48edcebd263024fcd6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\7af282f3414d23c0de14b18ca184b3ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\02111c42f006ca8c5885129887f424de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\0634a89bdba525b23d91be6c33de5382\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\transition-27.0.2.aar\242cc70a2e5943789d796c3e0c35114a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\54c6f6d92d8c04115a6bfbe6f717ad0f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\runtime-1.0.3.aar\57134922bb38f7ac94b33855cbf50fa6\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:1:1-36:12
+	package
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:2:5-26
+		INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:11:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d67265f1d3af5bc833e10e3c41eb8a78\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d67265f1d3af5bc833e10e3c41eb8a78\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:15:9-39
+service#org.eclipse.paho.android.service.MqttService
+ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:18:9-19:19
+	android:name
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:18:18-77
+activity#org.iot.ste.SplashActivity
+ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:21:9-26:20
+	android:theme
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:21:50-84
+	android:name
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:21:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:22:12-25:29
+action#android.intent.action.MAIN
+ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:24:27-74
+activity#org.iot.ste.MainActivity
+ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:29:9-33:20
+	android:label
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:31:13-42
+	android:name
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml:30:13-41
+uses-sdk
+INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\design-27.0.2.aar\998a517b0bdeccc4ed1cc83098ccfe38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\design-27.0.2.aar\998a517b0bdeccc4ed1cc83098ccfe38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\e1bdf1032024c4ca65eedf4aaa7dde05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\e1bdf1032024c4ca65eedf4aaa7dde05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\7e42785cf452ccf7ed1d5807b9ab38f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\7e42785cf452ccf7ed1d5807b9ab38f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\a869547c8f197c8a2d81911dc44a2f40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\a869547c8f197c8a2d81911dc44a2f40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d67265f1d3af5bc833e10e3c41eb8a78\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d67265f1d3af5bc833e10e3c41eb8a78\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\670d07086824bc214915c8535a5a958d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\670d07086824bc214915c8535a5a958d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\7209fb4c7df9997696b287a0b07ad6a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\7209fb4c7df9997696b287a0b07ad6a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\292b9fd83dfd41f627ba9ae26362f184\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\292b9fd83dfd41f627ba9ae26362f184\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\df8681fa88b0fe48edcebd263024fcd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\df8681fa88b0fe48edcebd263024fcd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\7af282f3414d23c0de14b18ca184b3ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\7af282f3414d23c0de14b18ca184b3ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\02111c42f006ca8c5885129887f424de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\02111c42f006ca8c5885129887f424de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\0634a89bdba525b23d91be6c33de5382\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\0634a89bdba525b23d91be6c33de5382\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\transition-27.0.2.aar\242cc70a2e5943789d796c3e0c35114a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\transition-27.0.2.aar\242cc70a2e5943789d796c3e0c35114a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\54c6f6d92d8c04115a6bfbe6f717ad0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\54c6f6d92d8c04115a6bfbe6f717ad0f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\runtime-1.0.3.aar\57134922bb38f7ac94b33855cbf50fa6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Stefano\.gradle\wrapper\dists\caches\transforms-1\files-1.1\runtime-1.0.3.aar\57134922bb38f7ac94b33855cbf50fa6\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+		ADDED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\__LETSGO\MQTT_EXP\IOTp2pPOC\app\src\main\AndroidManifest.xml
